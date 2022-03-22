@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.eagleinvsys.test.converters.CsvConverterTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-22T19:26:37" hostname="OMEN" time="0.064">
+  <properties/>
+  <testcase name="testConvert()" classname="org.eagleinvsys.test.converters.CsvConverterTests" time="0.064"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
